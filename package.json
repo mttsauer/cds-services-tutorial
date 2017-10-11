@@ -4,11 +4,11 @@
   "description": "Example CDS Services",
   "main": "index.js",
   "scripts": {
-    "start-server": "nodemon ./index.js localhost 3000"
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kpshek/cds-services-tutorial.git"
+    "url": "git+https://github.com/mttsauer/cds-services-tutorial.git"
   },
   "author": "Cerner",
   "license": "Apache-2.0",
